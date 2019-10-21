@@ -18,15 +18,11 @@ Here's the list of assignment projects I have to find and add to this repo
 * [X] \#9 Shortest Path Directed Weighted Graph
 
 Here's a list of topics to put together information from class and add to the repo
-* [ ] Constant time operations
-* [ ] Growth of functions and complexity
-* [ ] O notation
-* [ ] Algorithm analysis
-* [ ] Recursive definitions and algorithms
-* [ ] Analyzing the time complexity of recursive algorithms
-* [ ] Sorting - Selection, Insert, Shell, Quicksort, Mergesort, Heapsort
+* [ ] Algorithm analysis - Constant time operations, Growth complexity, O notation
+* [ ] Recursive Algorithms - Time Complexity Analysis of Recursive Algorithms
+* [ ] Sorting - Selection Sort, Insert Sort, Shell Sort, Quicksort, Mergesort, Heapsort
 * [ ] Linked Lists - Singly-linked, Doubly-linked, Traversal, Sorting, Search
-* [ ] Array based lists
+* [ ] Array Based Lists
 * [ ] Stacks and Queues
 * [ ] Hash Tables - Chaining, Linear & Quadratic Probing, Double Hashing, Direct Hashing
 * [ ] Binary Trees - Binary Search Trees (BST), search, insert, remove, traversal, recursion
