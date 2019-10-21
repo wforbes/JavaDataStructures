@@ -1,4 +1,4 @@
-package net.wforbes.javadatastructures.trees;
+package net.wforbes.javadatastructures.tree;
 
 public class BinarySearchTreeNode<E extends Comparable<E>> implements BinarySearchTreeNodeInterface<E>{
 

@@ -1,10 +1,9 @@
-package net.wforbes.javadatastructures.graphs;
+package net.wforbes.javadatastructures.graph;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
 
 public class DirectedWeightedGraph<E> implements WeightedGraph<E>{

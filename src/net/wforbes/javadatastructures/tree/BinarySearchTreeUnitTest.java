@@ -1,4 +1,4 @@
-package net.wforbes.javadatastructures.trees;
+package net.wforbes.javadatastructures.tree;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;

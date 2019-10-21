@@ -1,4 +1,4 @@
-package net.wforbes.javadatastructures.graphs;
+package net.wforbes.javadatastructures.graph;
 
 import java.util.*;
 
