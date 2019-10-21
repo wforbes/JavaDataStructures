@@ -11,7 +11,7 @@ Here's the list of assignment projects I have to find and add to this repo
 * [ ] \#2 Object Oriented Programming Basics
 * [ ] \#3 N log N sort algorithm
 * [ ] \#4 Fixed Sized Deque
-* [ ] \#5 Hash Set
+* [X] \#5 Hash Set
 * [X] \#6 Binary Search Tree
 * [ ] \#7 AVL Tree
 * [X] \#8 Directed Weighted Graph
