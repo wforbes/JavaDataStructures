@@ -9,11 +9,11 @@ ___
 Here's the list of assignment projects I have to find and add to this repo 
 * [ ] \#1 Introduction Java Project - Painting the Wall
 * [ ] \#2 Object Oriented Programming Basics
-* [ ] \#3 N log N sort algorithm
-* [ ] \#4 Fixed Sized Deque
+* [X] \#3 N log N sort algorithm
+* [X] \#4 Fixed Sized Deque
 * [X] \#5 Hash Set
 * [X] \#6 Binary Search Tree
-* [ ] \#7 AVL Tree
+* [X] \#7 AVL Tree
 * [X] \#8 Directed Weighted Graph
 * [X] \#9 Shortest Path Directed Weighted Graph
 

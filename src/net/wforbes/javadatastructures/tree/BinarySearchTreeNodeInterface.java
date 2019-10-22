@@ -12,6 +12,12 @@ public interface BinarySearchTreeNodeInterface<E extends Comparable<E>> {
      */
     public E getData();
 
+    public int getBalanceFactor();
+
+    public void setBalanceFactor(int balanceFactor);
+
+    public void setHeight(int height);
+
     /**
      * @return this nodes left child, or null if there is none
      */
