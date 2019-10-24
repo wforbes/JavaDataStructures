@@ -1,4 +1,4 @@
-package net.wforbes.javadatastructures.hashset;
+package net.wforbes.javadatastructures.set;
 
 import java.util.ArrayList;
 import java.util.Set;
