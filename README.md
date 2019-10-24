@@ -7,8 +7,8 @@ Adding info and notes after all the projects are added
 ___
 ### Todo List
 Here's the list of assignment projects I have to find and add to this repo 
-* [ ] \#1 Introduction Java Project - Painting the Wall
-* [ ] \#2 Object Oriented Programming Basics
+* [X] \#1 [Introduction Java Project - Painting the Wall](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/introtojava/PaintEstimator.java)
+* [X] \#2 [Object Oriented Programming Basics](https://github.com/wforbes/JavaDataStructures/tree/master/src/net/wforbes/javadatastructures/oopbasics)
 * [X] \#3 [N log N sort algorithm](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/sort/MergeSort.java)
 * [X] \#4 [Fixed Sized Deque](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/deque/FixedSizedDeque.java)
 * [X] \#5 [Hash Set](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/hashset/LinearProbingHashSet.java)
@@ -18,7 +18,7 @@ Here's the list of assignment projects I have to find and add to this repo
 * [X] \#9 [Shortest Path Directed Weighted Graph](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/graph/ShortestPathDWGraph.java)
 
 Here's a list of topics to put together information from class and add to the repo
-* [ ] Algorithm analysis - Constant time operations, Growth complexity, O notation
+* [ ] Algorithm analysis - Constant time operations, Growth complexity, Big O Notation
 * [ ] Recursive Algorithms - Time Complexity Analysis of Recursive Algorithms
 * [ ] Sorting - Selection Sort, Insert Sort, Shell Sort, Quicksort, Mergesort, Heapsort
 * [ ] Linked Lists - Singly-linked, Doubly-linked, Traversal, Sorting, Search
