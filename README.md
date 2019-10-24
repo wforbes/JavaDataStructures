@@ -9,13 +9,13 @@ ___
 Here's the list of assignment projects I have to find and add to this repo 
 * [ ] \#1 Introduction Java Project - Painting the Wall
 * [ ] \#2 Object Oriented Programming Basics
-* [X] \#3 N log N sort algorithm
-* [X] \#4 Fixed Sized Deque
-* [X] \#5 Hash Set
-* [X] \#6 Binary Search Tree
-* [X] \#7 AVL Tree
-* [X] \#8 Directed Weighted Graph
-* [X] \#9 Shortest Path Directed Weighted Graph
+* [X] \#3 [N log N sort algorithm](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/sort/MergeSort.java)
+* [X] \#4 [Fixed Sized Deque](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/deque/FixedSizedDeque.java)
+* [X] \#5 [Hash Set](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/hashset/LinearProbingHashSet.java)
+* [X] \#6 [Binary Search Tree](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/tree/BinarySearchTree.java)
+* [X] \#7 [AVL Tree](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/tree/AVLTree.java)
+* [X] \#8 [Directed Weighted Graph](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/graph/DirectedWeightedGraph.java)
+* [X] \#9 [Shortest Path Directed Weighted Graph](https://github.com/wforbes/JavaDataStructures/blob/master/src/net/wforbes/javadatastructures/graph/ShortestPathDWGraph.java)
 
 Here's a list of topics to put together information from class and add to the repo
 * [ ] Algorithm analysis - Constant time operations, Growth complexity, O notation
